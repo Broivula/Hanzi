@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hanzi_training_app</string>
+    <string name="add_card_page_title">Create a card</string>
+    <string name="add_card_page_word">Pinyin</string>
+    <string name="add_card_page_translation">Translation</string>
+    <string name="add_card_page_symbol">Symbol</string>
+    <string name="add_card_page_button">Create</string>
+    <string name="no_cards_added_string">No cards found, start creating!</string>
+    <string name="action_edit_cards">Edit cards</string>
+    <string name="action_hide_card_info">Hide card info</string>
+    <string name="card_created_title">Success!</string>
+    <string name="card_created_message">Card created successfully!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
